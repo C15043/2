@@ -13,7 +13,7 @@
     <td valign="top">
         <a target="_blank" href="https://github.com.github.io/C15043/2/028/">
             <p align="center">028</p>
-            <img src="https://github.com/C15043/2/blob/56cfeb2021e678cab424d5a3ee848bc13224c52c/028/img/boy.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/028.jpg"/>
         </a>
     </td>
     </tr>

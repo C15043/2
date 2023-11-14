@@ -11,7 +11,7 @@
     <!-- 第十行 -->
     <tr>
     <td valign="top">
-        <a target="_blank" href="https://github.com/C15043/2/028/index.html">
+        <a target="_blank" href="https://github.com/C15043/2/028/">
             <p align="center">028</p>
             <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/028.jpg"/>
         </a>
